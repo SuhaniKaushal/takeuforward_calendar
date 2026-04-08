@@ -4,7 +4,7 @@
 This project is a Frontend Engineering Challenge implementation of an interactive wall calendar. It meticulously translates a static UX/UI design concept into a highly functional, responsive web component. Utilizing a clean frontend architecture, the app achieves an authentic "wall calendar" aesthetic while providing robust interactivity including multi-day range selection and a persistent note-taking system.
 
 ## Live Demo
-[Live Demo URL Placeholder]
+https://takeuforward-calendar-theta.vercel.app/
 
 ## Features
 - **Wall Calendar Aesthetic:** Dynamic layout featuring a large hero image section, standard monthly grid, and spiral-binding UI elements.
